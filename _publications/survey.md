@@ -4,7 +4,7 @@ collection: preprint
 permalink: /publication/survey
 excerpt: 'A survey on the current available verification techniques for quantum programs and circuits.'
 date: 2022-12-12
-venue: 'arXiv'
+pubtype: 'preprint'
 paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
 ---
 A survey on the current available verification techniques for quantum programs and circuits.
