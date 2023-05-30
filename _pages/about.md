@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-The personal website for Marco Lewis MEng.
+I am a PhD student at Newcastle University, supervised by Sadegh Soudjani and Paolo Zuliani. My research area is the intersection between quantum computing and formal verification, where I am investigating how quantum programs can be verified using classical verification techniques.
 
-Lorem ipsum
+## Biography
+
+## News
