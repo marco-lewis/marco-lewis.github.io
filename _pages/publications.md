@@ -13,7 +13,7 @@ author_profile: true
 
 <h2>Preprints</h2>
 {% for post in site.publications reversed %}
-  {% if post.collection == 'preprint' %}
+  {% if post.collection == preprint %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
