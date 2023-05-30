@@ -1,18 +1,18 @@
 ---
-title: "Teaching Assistant/Demonstrator"
+title: "Demonstrator/Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/newcastle
 venue: "Newcastle University, School of Computing"
 location: "Newcastle upon Tyne, UK"
 ---
 
-Demonstrated for numerous courses whilst at Newcastle University.
+Demonstrated in labs for numerous courses at Newcastle University's School of Computing.
 
 # Modules (2022/23)
-- CSC3094 Dissertation Project
+- CSC3094 Major Project and Dissertation in Computer Science
 - CSC8633 Group Project in Data Science
-- CSC3132 Quantum Computing
+- CSC3132 Introduction to Quantum Computing
 - CSC8631 Data Management and Exploratory Data Analysis
 - CSC8101 Computing Foundations of Data Science
 
