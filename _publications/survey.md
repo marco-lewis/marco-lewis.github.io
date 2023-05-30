@@ -9,4 +9,4 @@ paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
 ---
 A survey on the current available verification techniques for quantum programs and circuits.
 
-[arXiv](https://arxiv.org/abs/2110.01320)
+\[[arXiv](https://arxiv.org/abs/2110.01320)\]
