@@ -1,18 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Paolo Zuliani:
+  name        : "Paolo Zuliani"
+  uri         : "https://pzuliani.github.io/"
+  email       : "zuliani@di.uniroma1.it"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Sadegh Soudjani:
+  name        : "Sadegh Soudjani"
+  uri         : "https://hycodev.com/ssoudjani"
+  email       : "sadegh.soudjani@newcastle.ac.uk"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
