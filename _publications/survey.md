@@ -7,6 +7,7 @@ pubtype: 'preprint'
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
 authors: M. Lewis, S. Soudjani, P. Zuliani
+excerpt_separator: ""
 ---
 A survey on the current available verification techniques for quantum programs and circuits.
 
