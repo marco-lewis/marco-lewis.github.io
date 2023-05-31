@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lewis2022formal
 date: 2022-12-12
 pubtype: 'preprint'
-venue: 'arXiv'
+venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
 authors: M. Lewis, S. Soudjani, P. Zuliani
 ---
