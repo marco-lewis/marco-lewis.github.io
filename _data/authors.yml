@@ -1,13 +1,8 @@
 # Authors
 
-Paolo Zuliani:
-  name        : "Paolo Zuliani"
-  uri         : "https://pzuliani.github.io/"
-  email       : "zuliani@di.uniroma1.it"
-  avatar      : "bio-photo-2.jpg"
-
-Sadegh Soudjani:
-  name        : "Sadegh Soudjani"
-  uri         : "https://hycodev.com/ssoudjani"
-  email       : "sadegh.soudjani@newcastle.ac.uk"
-  avatar      : "bio-photo.jpg"
+Marco Lewis:
+  name        : "Marco Lewis"
+  uri         : "https://marco-lewis.github.io/"
+  email       : "marco-lewis@hotmail.com"
+  avatar      : "profile.jpg"
+  bio         : "PhD Student at Newcastle University"
