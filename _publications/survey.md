@@ -1,12 +1,12 @@
 ---
 title: "Formal Verification of Quantum Programs: Theory, Tools and Challenges"
-collection: preprint
-permalink: /publication/survey
-excerpt: 'A survey on the current available verification techniques for quantum programs and circuits.'
+collection: publications
+permalink: /publication/lewis2022formal
 date: 2022-12-12
 pubtype: 'preprint'
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
+authors: M. Lewis, S. Soudjani, P. Zuliani
 ---
 A survey on the current available verification techniques for quantum programs and circuits.
 
