@@ -1,6 +1,6 @@
 Personal website for Marco Lewis.
 
-Implemented some changes based on [Alex Von Moll repository](https://github.com/avonmoll/avonmoll.github.io), with my own variations on it.
+Implemented some changes based on [Alex Von Moll's repository](https://github.com/avonmoll/avonmoll.github.io), with my own variations on it.
 
 # TODO
 - Add all current publications/portfolio items
