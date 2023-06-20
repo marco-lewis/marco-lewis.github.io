@@ -1,6 +1,6 @@
 ---
 title: "SilVer: Silq Verification"
-excerpt: "Verification of Silq quantum programs using SMT solvers.<br /><img src='/images/silver.png'>"
+excerpt: "Verification of Silq quantum programs using SMT solvers.<br /><img src='/images/silver.png' width='615' height='235' />"
 collection: portfolio
 ---
 
