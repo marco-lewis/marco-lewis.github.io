@@ -1,5 +1,5 @@
 ---
-title: "Formal Verification of Quantum Programs: Theory, Tools and Challenges"
+title: "Verification of Quantum Systems using Barrier Certificates"
 collection: publications
 permalink: /publication/lewis2023barrier
 date: 2022-07-14
