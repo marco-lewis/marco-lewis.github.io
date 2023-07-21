@@ -16,6 +16,8 @@ Before starting my postgraduate studies at Newcastle University, I studied Mathe
 <!---
 \[mon/year\] News
 -->
+\[07/2023\] Paper accepted for [QEST 2023](https://www.qest.org/qest2023/); the preprint can be found at [arXiv:2307.07307](https://arxiv.org/abs/2307.07307)
+
 \[02/2023\] Attended QIP 2023
 
 \[12/2022\] Update to preprint survey [arXiv:2110.01320](https://arxiv.org/abs/2110.01320)
