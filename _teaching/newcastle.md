@@ -14,14 +14,14 @@ Demonstrated in labs for numerous courses at Newcastle University's School of Co
 - CSC8633 Group Project in Data Science
 - CSC3132 Introduction to Quantum Computing
 - CSC8631 Data Management and Exploratory Data Analysis
-- CSC8101 Computing Foundations of Data Science
+- CSC8621 Computing Foundations of Data Science
 
 
 # Modules (2021/22)
 - CSC8633 Group Project in Data Science
 - CSC8101 Big Data Analystics
 - CSC8631 Data Management and Exploratory Data Analysis
-- CSC8101 Computing Foundations of Data Science
+- CSC8621 Computing Foundations of Data Science
 
 # Modules (2020/21)
 - CSC8633 Group Project in Data Science
