@@ -5,7 +5,7 @@ permalink: /publication/lewis2023barrier
 date: 2023-09-15
 pubtype: 'conference'
 doi: '10.1007/978-3-031-43835-6_24'
-venue: 'Quantitative Evaluation of Systems 2023 (QEST 2023)'
+venue: 'Quantitative Evaluation of Systems (QEST)'
 paperurl: 'https://arxiv.org/pdf/2307.07307.pdf'
 authors: 'M. Lewis, P. Zuliani, S. Soudjani'
 excerpt_separator: ""
