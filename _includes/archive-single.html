@@ -46,7 +46,7 @@
       	  {% endif %}
           {% if post.pubtype == 'preprint' %}
             <i>{{ post.venue }}</i>
-          {% elsif post.pubtype == 'publication' %}
+          {% elsif post.pubtype == 'publication' or post.pubtype == 'conference' %}
             Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           {% endif %}
         {% elsif post.date %}
