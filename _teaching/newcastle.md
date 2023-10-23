@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/newcastle
 venue: "Newcastle University, School of Computing"
+date: 2021
 location: "Newcastle upon Tyne, UK"
 ---
 
