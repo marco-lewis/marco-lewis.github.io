@@ -4,11 +4,14 @@ collection: publications
 permalink: /publication/lewis2022formal
 date: 2022-12-12
 pubtype: 'preprint'
-venue: 'Under Review'
-paperurl: 'https://arxiv.org/pdf/2110.01320.pdf'
+doi: 'https://doi.org/10.1145/3624483'
+venue: 'Just Accepted'
+paperurl: 'https://dl.acm.org/doi/10.1145/3624483'
 authors: M. Lewis, S. Soudjani, P. Zuliani
 excerpt_separator: ""
 ---
 A survey on the current available verification techniques for quantum programs and circuits.
+
+\[[doi](https://doi.org/10.1145/3624483)\]
 
 \[[arXiv](https://arxiv.org/abs/2110.01320)\]
