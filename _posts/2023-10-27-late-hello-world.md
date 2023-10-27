@@ -1,6 +1,6 @@
 ---
 title: 'Hello World!'
-date: 2023-09-23
+date: 2023-10-27
 permalink: /posts/2023/09/late-hello-world/
 tags:
   - misc
