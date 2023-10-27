@@ -15,7 +15,7 @@ After a 3-hour journey from Newcastle, I had arrived in London. A few friends an
 
 The travel on the Eurostar is always relaxing, I had spent the time mainly listening to a podcast that helped the 2-hour journey whizz by. After getting off, I managed to find the local train to Antwerp and was there after another 50 minutes. The hotel room I was staying in was very spacious (Premier Suites Plus Antwerp). I went to bed shortly after dinner, I planned on getting a lot of sleep since I had been busy for most of September.
 
-Dinner: Takumi Ramen Kitchen
+Dinner: Takumi Ramen Kitchen.
 
 Monday 18th - Preparation and Reception
 ======
@@ -63,5 +63,5 @@ I had spent my evenings preparing my talk and today was the day that I was prese
 
 Overall the trip was a good time. I got to learn a bit about the Formal Verification community and it is interesting to see how closely connected I am from people within the community. I think it is also good that there was some discussion of quantum computing and the need for formal verification to be applied to it.
 
-Lunch: Conference;
+Lunch: Conference provided;
 Dinner: Beer Central.
