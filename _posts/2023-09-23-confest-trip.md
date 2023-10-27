@@ -23,23 +23,21 @@ Not much to say on Monday. A fire alarm had disturbed my sleep (fortunately ther
 
 In the evening, I had attended the CONFEST Reception. Another attendee (Cece from Imperial in London) and I had gotten lost but we managed to work out where we needed to go. There I met Zhen Zhang, Masaki Wabe and Joshua J. (one of Zhen's students). It was a good opportunity to get to know them and learn about their experiences in academia. I was trying to remember where I had heard of Zhen before and it turns out he is on the committee of VMCAI 2024 (where I recently submitted a paper to).
 
-After the reception, I went around the centre of Antwerp where I saw the cathedral (NAME?) and grabbed some pizza for dinner before relaxing in my room and turning in for the night.
+After the reception, I went around the centre of Antwerp where I saw the cathedral (De Kathedraal) and grabbed some pizza for dinner before relaxing in my room and turning in for the night.
 
-Lunch: EXKi
-Dinner: Piazzo
+Lunch: EXKi;
+Dinner: Piazzo.
 
 Tuesday 19th - CONFEST Day 1
 ======
 
-(Castle, dinner with Sadegh, Paulius, Kostiyatyn)
-
-The first few talks were on using neural networks for verification. These days it seems that machine learning is being applied to almost everything (not sure what that says about the state of research). I decided to explore the city. If you are in Antwerp, definitely check out St. Anne's Tunnel (it's an old tunnel that goes underneath the river).
+The first few talks were on using neural networks for verification. These days it seems that machine learning is being applied to almost everything (not sure what that says about the state of research). I decided to explore the city. If you are in Antwerp, definitely check out St. Anne's Tunnel. It's an old tunnel that goes underneath the river allowing pedestrians to cross the river. It has quite a 20th century design and was really interesting walk through.
 
 During the day, there was an interesting talk on extending the mu-calculus with data, which allows you to not only set properties but get answers out, e.g., how many a actions are taken. It seems that there are several mu-calculus extensions like this, but this is the first one I've seen. I wonder if these data extended logics find much usage though. At the end of the day, got to have some dinner with Sadegh, Paulius Stankaitis and Kostiatyn Potomkin (all affiliated with Newcastle University).
 
-Cafe: Me and My Monkey
-Lunch: Holy Gucamoly (CHECK)
-Dinner: Appadocia
+Cafe: Me and My Monkey;
+Lunch: Holy Guacamoly;
+Dinner: Appadocia.
 
 Wednesday 20th & Thursday 21st - CONFEST Day 2 & 3
 ======
@@ -51,12 +49,12 @@ It seems that the application of formal methods to the quantum stack is being pi
 On Thursday, Sadegh, Paulius and Kostiatyn had given organised and presented a session in memory of Sergiy Bogomolov (who had passed previously this year). It was enlightening to learn about his work and life and I wish I got to know him while he was at Newcastle. My conodolences go out to his family.
 
 Wednesday
-Lunch: Conference provided
-Dinner: Horta - Conference dinner
+Lunch: Conference provided;
+Dinner: Horta - Conference dinner.
 
 Thursday
-Lunch: Conference provided
-Dinner: Taj Mahal Indian Kitchen
+Lunch: Conference provided;
+Dinner: Taj Mahal Indian Kitchen.
 
 Friday 22nd - CONFEST Day 4
 ======
@@ -64,7 +62,6 @@ Friday 22nd - CONFEST Day 4
 I had spent my evenings preparing my talk and today was the day that I was presenting it. I think My talk had gone well; I was a bit nervous leading up to it, but thought that overall I presented well. I even had a few people come up and ask me questions about it afterwards, which is a good sign. The last dinner was pleasant as I got to talk and network with a few people from QEST.
 
 Overall the trip was a good time. I got to learn a bit about the Formal Verification community and it is interesting to see how closely connected I am from people within the community. I think it is also good that there was some discussion of quantum computing and the need for formal verification to be applied to it.
-<!--- Jeffery, Taylor, Alec, Luke ---!>
 
-Lunch: Conference
-Dinner: Beer Central
+Lunch: Conference;
+Dinner: Beer Central.
