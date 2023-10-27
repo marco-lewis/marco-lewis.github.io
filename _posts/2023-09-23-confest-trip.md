@@ -64,7 +64,7 @@ Friday 22nd - CONFEST Day 4
 I had spent my evenings preparing my talk and today was the day that I was presenting it. I think My talk had gone well; I was a bit nervous leading up to it, but thought that overall I presented well. I even had a few people come up and ask me questions about it afterwards, which is a good sign. The last dinner was pleasant as I got to talk and network with a few people from QEST.
 
 Overall the trip was a good time. I got to learn a bit about the Formal Verification community and it is interesting to see how closely connected I am from people within the community. I think it is also good that there was some discussion of quantum computing and the need for formal verification to be applied to it.
-# Jeffery, Taylor, Alec, Luke
+<!--- Jeffery, Taylor, Alec, Luke ---!>
 
 Lunch: Conference
 Dinner: Beer Central
