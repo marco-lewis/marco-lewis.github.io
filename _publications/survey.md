@@ -2,7 +2,7 @@
 title: "Formal Verification of Quantum Programs: Theory, Tools and Challenges"
 collection: publications
 permalink: /publication/lewis2022formal
-date: 2022-12-12
+date: 2023-10-16
 pubtype: 'publication'
 doi: 'https://doi.org/10.1145/3624483'
 venue: 'ACM Transactions of Quantum Computing, Just Accepted'
