@@ -3,9 +3,9 @@ title: "Formal Verification of Quantum Programs: Theory, Tools and Challenges"
 collection: publications
 permalink: /publication/lewis2022formal
 date: 2022-12-12
-pubtype: 'preprint'
+pubtype: 'journal'
 doi: 'https://doi.org/10.1145/3624483'
-venue: 'Just Accepted'
+venue: 'ACM Transactions of Quantum Computing, Just Accepted'
 paperurl: 'https://dl.acm.org/doi/10.1145/3624483'
 authors: M. Lewis, S. Soudjani, P. Zuliani
 excerpt_separator: ""
