@@ -10,6 +10,9 @@ location: "Newcastle upon Tyne, UK"
 
 Demonstrated in labs for numerous courses at Newcastle University's School of Computing.
 
+# Modules (2023/24)
+- CSC3634 Fault Tolerant and Cyber-Physical Systems
+
 # Modules (2022/23)
 - CSC3094 Major Project and Dissertation in Computer Science
 - CSC8633 Group Project in Data Science
