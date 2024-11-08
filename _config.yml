@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marco Lewis"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Newcastle University; researching quantum computing and formal verification"
-  location         : "Newcastle upon Tyne, UK"
-  employer         : "Newcastle University"
+  bio              : "Postdoc researcher at QuaCS with Inria; researching quantum computing and formal verification"
+  location         : "Palaiseau, France"
+  employer         : "Inria"
   pubmed           : 
   googlescholar    : 
-  email            : "m.j.lewis2@newcastle.ac.uk"
+  email            : "marco.lewis@lmf.cnrs.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
