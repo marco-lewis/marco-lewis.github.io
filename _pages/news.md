@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+\[11/2024] Started at the QuaCS team with Inria at Université Paris-Sacly
+
+\[10/2024] Corrections accepted and thesis deposited; PhD completed!
+
+\[08/2024] New paper on arXiv: [arxiv:2408.07591](https://arxiv.org/abs/2408.07591)
+
+\[08/2024] Viva passed with minor corrections!
+
+\[07/2024] Two papers accepted at the [QSW 2024](https://qsw.conferences.computer.org/2024/); one paper led by me (available [here](https://doi.org/10.1109/QSW62656.2024.00027)) and another led by Andrew Wright, a Masters student I supervised (available [here](https://doi.org/10.1109/QSW62656.2024.00020))
+
 \[10/2023\] Survey paper accepted in ACM Transactions on Quantum Computing; full paper available [here](https://doi.org/10.1145/3624483)
 
 \[09/2023\] Attended and paper presented at [QEST 2023](https://www.qest.org/qest2023/); the full paper can be found in the [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-43835-6_24)
