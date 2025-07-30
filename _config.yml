@@ -86,7 +86,7 @@ author:
   location         : "Palaiseau, France"
   employer         : "Inria"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=mZ2hc_AAAAAJ&hl=en" 
   email            : "marco.lewis@lmf.cnrs.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
