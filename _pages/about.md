@@ -10,17 +10,17 @@ redirect_from:
 
 I am a postdoc researcher in the QuaCS group with Inria located at Université Paris-Sacly. My research area is the intersection between quantum computing and formal verification, where I am investigating how different areas of the quantum stack can be verified using automated verification techniques.
 
-Before starting my postdoc, I studied my PhD at Newcastle University under Sadegh Soudjani and Paolo Zuliani. Before that, I studied Mathematics and Computer Science at the University of Bristol.
+Before starting my postdoc, I studied my PhD at Newcastle University under Sadegh Soudjani and Paolo Zuliani. Before that, I studied a Masters in Mathematics and Computer Science at the University of Bristol.
 
 ## News
 <!---
 \[mon/year\] News
 -->
 
+\[07/2025] Presentation at First Workshop on Verfication of Quantum Computing ([VQC 2025](https://verifiedqc.github.io/2025/) on recent work, paper to be released; also paper presented at [QUASAR'25](https://sites.google.com/view/quasar25) by Viktorija Bezganovic, available at [arxiv:2409.10231](https://arxiv.org/abs/2409.10231)
+
+\[07/2025] Attended PhD graduation ceremony at Newcastle University
+
 \[11/2024] Started at the QuaCS team with Inria at Université Paris-Sacly
-
-\[10/2024] Corrections accepted and thesis deposited; PhD completed!
-
-\[08/2024] New paper on arXiv: [arxiv:2408.07591](https://arxiv.org/abs/2408.07591)
 
 [More news](https://marco-lewis.github.io/news/)
