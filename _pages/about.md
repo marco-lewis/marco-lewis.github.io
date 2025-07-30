@@ -24,3 +24,11 @@ Before starting my postdoc, I studied my PhD at Newcastle University under Sadeg
 \[11/2024] Started at the QuaCS team with Inria at Université Paris-Sacly
 
 [More news](https://marco-lewis.github.io/news/)
+
+## Publications
+
+See my [ORCID](https://orcid.org/0000-0002-4893-7658) for up to date publications.
+
+## CV
+
+Available at [https://marco-lewis.github.io/files/cv.pdf](https://marco-lewis.github.io/files/cv.pdf)
