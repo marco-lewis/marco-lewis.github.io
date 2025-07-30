@@ -13,6 +13,8 @@ author_profile: true
 
 \[11/2024] Started at the QuaCS team with Inria at Université Paris-Sacly
 
+\[10/2024] Attended [MQSF 2024](https://www.cda.cit.tum.de/research/quantum/2024_mqsf_summary/)
+
 \[10/2024] Corrections accepted and thesis deposited; PhD completed!
 
 \[08/2024] New paper on arXiv: [arxiv:2408.07591](https://arxiv.org/abs/2408.07591)
