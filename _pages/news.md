@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+\[09/2025] New paper out on the arXiv, available at [arxiv:2509.11678](https://arxiv.org/abs/2509.11678)
+
 \[07/2025] Presentation at First Workshop on Verfication of Quantum Computing ([VQC 2025](https://verifiedqc.github.io/2025/) on recent work, paper to be released; also paper presented at [QUASAR'25](https://sites.google.com/view/quasar25) by Viktorija Bezganovic, available at [arxiv:2409.10231](https://arxiv.org/abs/2409.10231)
 
 \[07/2025] Attended PhD graduation ceremony at Newcastle University
