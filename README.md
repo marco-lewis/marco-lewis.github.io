@@ -3,8 +3,6 @@ Personal website for Marco Lewis.
 Implemented some changes based on [Alex Von Moll's repository](https://github.com/avonmoll/avonmoll.github.io), with my own variations on it.
 
 # TODO
-- Add all current publications/portfolio items
-- Get a nice workflow for references sorted (bibtex to Markdown files)
 - List out my changes from the original template and Alex's.
 
 # Original README (from academicpages)
