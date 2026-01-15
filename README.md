@@ -2,7 +2,10 @@ Personal website for Marco Lewis.
 
 Implemented some changes based on [Alex Von Moll's repository](https://github.com/avonmoll/avonmoll.github.io), with my own variations on it.
 
-# TODO
+## Quick How Tos
+- News updates: Add news to ```_pages/about.md``` and move oldest entry to ```_pages/news.md```
+
+## TODOs
 - List out my changes from the original template and Alex's.
 
 # Original README (from academicpages)
