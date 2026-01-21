@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+\[01/2026] New paper out on the arXiv, available at [arxiv:2601.14029](https://arxiv.org/abs/2601.14029)
+
 \[01/2026] Presented our _distinguished_ paper at [VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026)! The paper is available at [doi:10.1007/978-3-032-15700-3\_7](https://doi.org/10.1007/978-3-032-15700-3_7)
 
 \[11/2025] Paper accepted at [VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026)!
