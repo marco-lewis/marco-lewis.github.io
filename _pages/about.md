@@ -17,11 +17,11 @@ Before starting my postdoc, I studied my PhD at Newcastle University under Sadeg
 \[mon/year\] News
 -->
 
+\[09/2026] New paper out on HAL, available at [hal-05738864](https://inria.hal.science/hal-05738864v1)
+
 \[07/2026] Paper presented at [AiML 2026](https://events.illc.uva.nl/aiml2026/), the published version is available at [doi:10.4204/EPTCS.447.33](https://dx.doi.org/10.4204/EPTCS.447.33) and the slides are available [here](https://marco-lewis.github.io/talks/aiml2026_slides.pdf)
 
 \[04/2026] Paper accepted at [AiML 2026](https://events.illc.uva.nl/aiml2026/)!
-
-\[01/2026] New paper out on the arXiv, available at [arxiv:2601.14029](https://arxiv.org/abs/2601.14029)
 
 [More news](https://marco-lewis.github.io/news/)
 
